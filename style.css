@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    margin: 60px;
+}
+
+h1 {
+    font-size: 60px;
+    color: blue;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 30px;
+    color: whitesmoke;
+    margin: 40px 0;
+}
+.text-highlight {
+    background-color: rgb(255, 0, 128);
+    border: 5px solid white;
+    padding: 20px;        
+    margin: 20px auto;    
+    width: 80%;           
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.a-center {
+    text-align: center;
+}
